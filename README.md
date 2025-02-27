@@ -10,3 +10,5 @@
 # Задачи для мобильного устройства
 
 - Моделирование ситуации , при которой при обращении к [Интернет -магазин](https://intern.demoshopping.ru)  пользователь увидит в браузере любую картинку.
+
+- [Решения](https://drive.google.com/drive/folders/1XKuJAUy0zD2aVeQPHX41s8ywJaEP-nTr)
